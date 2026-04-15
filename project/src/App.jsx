@@ -70,4 +70,4 @@ Query: ${form.query}`;
   );
 }
 
-export default Contact;npm run dev
+export default Contact;
